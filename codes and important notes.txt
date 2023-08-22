@@ -1,0 +1,11 @@
+Code for ssh astro01: Bornh1303!
+ssh otp.hpc.ku.dk -l kxm508 - when i'm at home
+ssh astro01.hpc.ku.dk -l kxm508 - when im at KU network
+
+
+Code for udo (Ubuntu): Bornh1303 (possibly with !)
+
+Open the stanard terminal in VS code and type the lines above following the code also specified above.
+Subsequently, write the one time code from the app on my phone.
+Now it is possible to use ssh until next sunday.
+
